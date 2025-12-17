@@ -1,0 +1,14 @@
+
+ Vibe Coding Experience – Card Matching Game
+
+Tool Selection Justification
+I chose Replit Agent because it provides an AI-powered, integrated development environment that allows direct interaction with the codebase. Its ability to understand project context and generate complete, working solutions made it ideal for building a small interactive game.
+
+Development Process
+I started by describing the Card Matching Game requirements in natural language. Replit Agent generated a functional version of the game using HTML, CSS, and JavaScript. After confirming the game worked correctly, I asked the agent to refactor the code into separate files for better structure. The development process required a few iterations to fine-tune the matching logic and user interactions.
+
+Challenges and Solutions
+One challenge was that the initial implementation placed all code in a single file. Replit Agent helped resolve this by splitting the project into separate HTML, CSS, and JavaScript files without breaking functionality. Minor manual adjustments were needed to ensure correct file linking.
+
+Reflection
+The most surprising aspect of vibe coding was how quickly a complete, playable game could be created from simple prompts. This approach significantly reduced development time and allowed me to focus more on logic and user experience rather than boilerplate setup. I would use vibe coding tools again for rapid prototyping and small projects. In the future, such tools may transform software development by making coding more accessible and collaborative.
